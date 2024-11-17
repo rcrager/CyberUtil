@@ -1,8 +1,7 @@
-# SysAdmin-Util
-Scripts useful in my SysAdmin days. 
+# Cybersecurity Utilities
 
-I've also included scripts to help parse Windows logs and do some cyber stuff.
+- some scripts to help parse windows logs
+- some scripts to monitor IOCs
+- other scripts useful in SysAdmin work
 
-## Permissions
-- most of these require you to run them as NT Authority System/Root because of Active Directory/LDAP Permissions
-
+## most of the cyber ones only need user privileges, but sysadmin usually needs root
